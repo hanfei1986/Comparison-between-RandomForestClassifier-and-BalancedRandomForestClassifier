@@ -3,8 +3,9 @@ Imbalanced data commonly exist in real world, especially in anamoly-detection ta
 
 Classification report for RandomForestClassifier:
 
-![image](https://github.com/hanfei1986/Comparison-between-RandomForestClassifier-and-BalancedRandomForestClassifier/assets/59255164/1000ae62-bc93-48ed-a4a3-15e9dbf285f2)
+![image](https://github.com/hanfei1986/Comparison-between-RandomForestClassifier-and-BalancedRandomForestClassifier/assets/59255164/f39fa661-1aff-4e3c-923d-3ad31cc2e04c)
 
 Classification report for BalancedRandomForestClassifier:
 
-![image](https://github.com/hanfei1986/Comparison-between-RandomForestClassifier-and-BalancedRandomForestClassifier/assets/59255164/f4b07951-97c2-4e76-9674-bfca09805dbd)
+![image](https://github.com/hanfei1986/Comparison-between-RandomForestClassifier-and-BalancedRandomForestClassifier/assets/59255164/0fd8d162-8d85-4a79-a650-644d0e72b487)
+
